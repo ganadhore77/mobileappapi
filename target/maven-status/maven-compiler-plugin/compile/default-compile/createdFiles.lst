@@ -1,0 +1,6 @@
+com\austere\appApi\controller\VisitorController.class
+com\austere\appApi\entity\Visitor.class
+com\austere\appApi\repository\VisitorRepo.class
+com\austere\appApi\AppApiApplication.class
+com\austere\appApi\entity\User.class
+com\austere\appApi\repository\UserRepo.class
